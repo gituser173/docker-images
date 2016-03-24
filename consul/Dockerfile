@@ -1,5 +1,5 @@
 FROM ubuntu
-MAINTAINER Fawad Halim <fawad@fawad.net>
+MAINTAINER gituser173
 
 RUN apt-get -y update
 RUN apt-get -y install unzip
